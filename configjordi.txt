@@ -1,1 +1,2 @@
 aquest arxiu el vull ignorar, i la seva carpeta també.
+Test ignore
