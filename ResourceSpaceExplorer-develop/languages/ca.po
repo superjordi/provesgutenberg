@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ResourceSpaceExplorer\n"
+"POT-Creation-Date: 2018-02-23 16:49+0100\n"
+"PO-Revision-Date: 2018-02-23 16:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html_e;_x\n"
+"X-Poedit-SearchPath-0: class.response.php\n"
+"X-Poedit-SearchPath-1: class.rse.php\n"
+"X-Poedit-SearchPath-2: class.settings.php\n"
+"X-Poedit-SearchPath-3: class.template.php\n"
+"X-Poedit-SearchPath-4: rp.php\n"
+
+#: class.rse.php:87
+msgid "All"
+msgstr "Tot"
+
+#: class.rse.php:91
+msgid "With Hashtag"
+msgstr ""
+
+#: class.rse.php:97
+msgid "By User"
+msgstr ""
+
+#: class.rse.php:100
+msgid "To User"
+msgstr ""
+
+#: class.rse.php:103
+msgid "By Location"
+msgstr ""
+
+#: class.rse.php:107
+msgid "Insert from ResourceSpace"
+msgstr "Inserir des de ResourceSpace"
+
+#: class.rse.php:108
+msgid "Insert"
+msgstr "Insereix"
+
+#: class.rse.php:109
+msgid "No resource matched your search query"
+msgstr "No s'ha trobat cap recurs"
+
+#: class.rse.php:111
+msgid "Load more resources"
+msgstr "Carregar més recursos"
+
+#: class.settings.php:41
+msgid "General settings"
+msgstr "Paràmetres generals"
+
+#: class.settings.php:49
+msgid "API key"
+msgstr "Clau de la API"
+
+#: class.settings.php:61
+msgid "Base URL"
+msgstr "URL base"
+
+#: class.settings.php:77
+msgid "Follow the white rabbit."
+msgstr ""
+
+#: class.settings.php:97 class.settings.php:117
+msgid ""
+"You take the blue pill and the story ends. You wake in your bed and you "
+"believe whatever you want to believe."
+msgstr ""
+
+#: class.settings.php:129
+msgid "ResourceSpace Explorer Settings"
+msgstr "Paràmetres de ResourceSpace Explorer"
+
+#: class.settings.php:130
+msgid "ResourceSpace Explorer"
+msgstr "ResourceSpace Explorer"
+
+#: class.settings.php:168
+msgid "Save Settings"
+msgstr "Desar paràmetres"
